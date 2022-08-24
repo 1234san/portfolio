@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi-lightgrey)
 
-## Project 10 [Live Link]()
+## Project 10 [Live Link](https://js-live-project-ten.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned to use **background-image** with **lienar-gradient**.
